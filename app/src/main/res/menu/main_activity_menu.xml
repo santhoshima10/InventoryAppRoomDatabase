@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/insert_test_data"
+    android:title="Insert Test Data"></item>
+    <item android:id="@+id/delete_all_data"
+        android:title="Delete All Products"
+        ></item>
+</menu>
