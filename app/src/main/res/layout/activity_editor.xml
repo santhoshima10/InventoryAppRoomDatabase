@@ -204,7 +204,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Product Name"
+            android:text="Supplier Email"
             android:textStyle="bold"
             android:fontFamily="@font/andika"
             android:layout_marginLeft="8dp"
